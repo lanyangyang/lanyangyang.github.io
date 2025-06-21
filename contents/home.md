@@ -1,20 +1,18 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Ph.D degree in HKUST(GZ)  at the Department of IoT, The Hong Kong University of Science and Technology, Guang Zhou, China.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+zliu785@connect.hkust-gz.edu.cn
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+#### Research Experience
+**CUHK**, Research Assistant at Professor.He Henry CHEN's Group(2022-2024)  
+**ThingX Ltd**, Engineering (2022-2023)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+#### Education Experience
+**Northwestern University**, Xian China, Honours Bachelor of Engineering 
+**The Essex University**, Essex U.K., Honours Bachelor of Science
+**CUHK**, Shatin HongKong, Master of Science
 
 #### Research Interests  
-XX, XX, XX, XX.
+Mobile computing, deep learning, sensing, IoT
