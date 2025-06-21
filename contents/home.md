@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/lanyangyang)
 
 I'm currently pursuing a Ph.D degree in HKUST(GZ) at the Department of IoT, The Hong Kong University of Science and Technology, Guang Zhou, China.
 
