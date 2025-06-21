@@ -1,6 +1,3 @@
-- XXXXXXX论文
+- X-ECGG, Ubicomp 2025
 
-- XXXXXXX论文
-
-- XXXXXXX论文
 
