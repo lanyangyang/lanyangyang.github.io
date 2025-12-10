@@ -1,5 +1,5 @@
 #### Research Experience
-**CUHK**, Research Assistant at Professor.He Henry CHEN's Group(2022-2024)\
+**CUHK**, Research Assistant at Professor.He Henry CHEN's Group(2023-2024)\
 **ThingX Ltd**, Engineering (2022-2023)  
 
 #### Education Experience
